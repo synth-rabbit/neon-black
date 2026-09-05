@@ -1,0 +1,11 @@
+# Neon Black vault — source repo. Rulebooks, generated builds, and scratch never go public.
+*.pdf
+*.zip
+dist/
+build/
+ref/
+.claude/
+.DS_Store
+.obsidian/workspace*.json
+assets/npcs-raw/_previews/
+nbtmp*/
